@@ -1,10 +1,4 @@
-<h2>
-<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" 
-     alt="Animated Emoji" 
-     width="50" height="50" 
-     style="transform: scaleX(-1);">
-  Hi, I’m Lorenzo!
-</h2>
+# <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> Hi, I'm Lorenzo!
 
 
 I am a senior at UCLA studying Computer Science & Linguistics! 
@@ -34,3 +28,5 @@ Email: lorenzobolls@g.ucla.edu
   <img src="https://github-readme-stats.vercel.app/api?username=lorenzobolls&show_icons=true&count_private=true&theme=vue&hide_rank=true" alt="GitHub Stats" height=150 />
 </p>
 
+#
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,react,html,css,c,bash,aws)](https://skillicons.dev)
